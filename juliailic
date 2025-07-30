@@ -33,6 +33,6 @@
 <body>
   <h1>Hello, I'm Julia Ilić 👋</h1>
   <p>I’m passionate about IT, tech support, and learning networking. This is my starter website, and I’m building more every day!</p>
-  <a href="https://github.com/juliailic-hub"  class="button" target="_blank">Visit My GitHub</a>
+  <a href="https://juliailic-hub.github.io"  class="button" target="_blank">Visit My GitHub</a>
 </body>
 </html>
