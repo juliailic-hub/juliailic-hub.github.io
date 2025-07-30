@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Pages site! This project is a simple landing page to introduce myself and link to my GitHub profile.
 
-📍 **Live site**: [https://juliailic-hub.github.io]
+📍 **Live site**: [https://juliailic-hub.github.io](https://juliailic-hub.github.io)
 
 ## 💡 About Me
 
