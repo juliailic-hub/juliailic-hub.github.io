@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Julia Ilić | IT Entry-Level Tech Support & Networking</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 40px;
+      background: #f2f2f2;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #555;
+      max-width: 600px;
+      margin: auto;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background: #007acc;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, I'm Julia Ilić 👋</h1>
+  <p>I’m passionate about IT, tech support, and learning networking. This is my starter website, and I’m building more every day!</p>
+  <a href="https://github.com/juliailic" class="button" target="_blank">Visit My GitHub</a>
+</body>
+</html>
